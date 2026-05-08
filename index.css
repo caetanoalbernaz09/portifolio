@@ -1,0 +1,19 @@
+.container{
+    height: 100vh;
+    display: grid;
+    background-color: #000000;
+    
+    
+}
+.centro{
+    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    height: 45%;
+    margin : auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-self: center;
+    border-radius: 20px;
+}
