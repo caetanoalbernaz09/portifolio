@@ -1,0 +1,68 @@
+body {
+      background-color: #0a0a0a;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Seção principal */
+    .hero {
+      padding: 80px 20px;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+
+    .hero p {
+      color: #aaaaaa;
+      margin-top: 16px;
+      max-width: 400px;
+    }
+
+    .btn-verde {
+      background-color: #3ddc58;
+      color: black;
+      font-weight: bold;
+      padding: 14px 32px;
+      border: none;
+      border-radius: 8px;
+      margin-top: 24px;
+      display: inline-block;
+      text-decoration: none;
+    }
+
+    .btn-verde:hover {
+      background-color: #2fc44d;
+      color: black;
+    }
+
+    /* Foto */
+    .foto {
+      width: 260px;
+      height: 260px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #3ddc58;
+    }
+
+    /* Empresas */
+    .empresas {
+      padding: 40px 20px;
+      border-top: 1px solid #222;
+    }
+
+    .empresas p {
+      color: #aaaaaa;
+      margin-bottom: 16px;
+    }
+
+    .empresa-card {
+      background-color: #141414;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 10px 20px;
+      color: #aaaaaa;
+      display: inline-block;
+      margin: 6px;
+    }
